@@ -9,10 +9,10 @@ Project to test out and explore the Solana Web3 connector mainly for airdrop pur
 Postgres, ShadCN for UI, zod, daisyui, react/nextjs, solana web3 connector
 
 ### Public
-![Alt text](image-url)
+![Alt text](https://github.com/hylinz/solana-test/blob/dev/img/pub.png)
 
 ### Team
-![Alt text](image-url)
+![Alt text](https://github.com/hylinz/solana-test/blob/dev/img/team.png)
 
 
 ## To Do
