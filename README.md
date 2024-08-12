@@ -6,7 +6,6 @@ Project to test out and explore the Solana Web3 connector mainly for airdrop pur
 
 ## Using
 
-<<<<<<< HEAD
 Postgres, ShadCN for UI, daisyui, react/nextjs, solana web3 connector
 =======
 Postgres, ShadCN for UI, zod, daisyui, react/nextjs, solana web3 connector
