@@ -23,4 +23,3 @@ Postgres, ShadCN for UI, zod, daisyui, react/nextjs, solana web3 connector
 - Test on the test net
 - Apply built in connector logic for verifying connection strings & burn the airdrop eligibiity 
 - Styling
->>>>>>> dev
